@@ -30,6 +30,8 @@
  *
  */
 
+alert("Instructions: Press any key to trigger an animation");
+
 var paper = new function(undefined) {
 
 var Base = new function() {
